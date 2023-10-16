@@ -5,7 +5,7 @@
 <p align="center">A tech enthusiast with a passion for open-source technology and programming  languages like Python and C .</p>
 
 ## Boilerplate 
-- 👨‍💻 My Linux projects are available at [projects github](https://github.com/samirgaire10/Boilerplate)
+- 👨‍💻 This book projects are available at [projects github](https://samirgaire10.github.io/book/)
 
 
 
