@@ -3,33 +3,17 @@
     height: 83vh;
     margin-bottom: 6rem;
   }
-  .about-containers {
-    flex-wrap: wrap;
-  }
-  #contact,
   #projects {
     height: fit-content;
   }
 }
 
 @media screen and (max-width: 1200px) {
-   /* #desktop-nav {
-    display: none;
-  } */
-  /* #hamburger-nav {
-    display: flex;
-  }  */
-  #experience,
-  .experience-details-container {
-    margin-top: 2rem;
-  }
-  #profile,
-  .section-container {
+  
+  #profile{
     display: block;
   }
-  .arrow {
-    display: none;
-  }
+  
   section,
   .section-container {
     height: fit-content;
@@ -57,9 +41,6 @@
     height: 83vh;
     margin-bottom: 0;
   }
-  article {
-    font-size: 1rem;
-  }
   footer nav {
     height: fit-content;
     margin-bottom: 2rem;
@@ -76,12 +57,7 @@
   .nav-links li a {
     font-size: 1rem;
   }
-  .experience-sub-title {
-    font-size: 1.25rem;
-  }
-  .logo {
-    font-size: 1.5rem;
-  }
+  
   .nav-links {
     flex-direction: column;
     gap: 0.5rem;
@@ -92,13 +68,8 @@
     height: 46vw;
     justify-content: center;
   }
-  .section__text__p2 {
-    font-size: 1.25rem;
-  }
+  
   .title {
     font-size: 2rem;
-  }
-  .text-container {
-    text-align: justify;
   }
 }
